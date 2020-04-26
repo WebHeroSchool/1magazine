@@ -1,0 +1,24 @@
+.header__title {
+  text-align: center;
+}
+.img {
+  position: relative;
+  width: 100%;
+}
+.nav__list-item {
+  text-decoration: none;
+  display: inline;
+  margin-right: 7px;
+  font-size: large;
+}
+.nav__additional {
+  float: right;
+}
+.aside {
+   width: 45;
+   float: right;
+   padding: 5px;
+}
+.footer {
+height: 100%;
+}
